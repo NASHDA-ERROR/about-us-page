@@ -1,0 +1,24 @@
+body{
+    background-color: #000000;
+}
+.about-section{
+    text-align: center;
+    background-color:rgb(56, 50, 50);
+    padding: 30px;
+    border-radius: 9px;
+    box-shadow: 0 2px 5px black;
+    max-width: 900px;
+    margin:  50px auto;
+}
+.text-color{
+    color:rgb(230, 184, 57);
+    text-decoration: underline;
+}
+.image{
+    border-radius: 9px;
+    max-width: 100%;
+    height: auto;
+}
+.col-md-6{
+    color: white;
+}
